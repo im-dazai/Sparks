@@ -1,0 +1,16 @@
+D:\Adobe\Comp 1\VS Saves\Sparks\bin\Debug\Sparks.exe.config
+D:\Adobe\Comp 1\VS Saves\Sparks\bin\Debug\Sparks.exe
+D:\Adobe\Comp 1\VS Saves\Sparks\bin\Debug\Sparks.pdb
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.Properties.Resources.resources
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.csproj.GenerateResource.cache
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.exe
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.pdb
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.Sparks.resources
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.Sparks_Login.resources
+D:\Adobe\Comp 1\VS Saves\Sparks\obj\Debug\Sparks.Sparks_Splash.resources
+C:\Users\D A Z A I\Desktop\C#\Sparks Institute\Sparks Release v1.0\Sparks.exe.config
+C:\Users\D A Z A I\Desktop\C#\Sparks Institute\Sparks Release v1.0\Sparks.exe
+C:\Users\D A Z A I\Desktop\C#\Sparks Institute\Sparks Release v1.0\Sparks.pdb
